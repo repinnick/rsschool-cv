@@ -30,3 +30,6 @@ I'm 26 y.o. and I'm a beginner programmer who recently started learning JavaScri
 ### Education:
 * September 2011 - July 2016. BSU, Law Faculty. Lawyer.
 * May 2020 - October 2020. IT-School 'TeachMeSkills'. Python Backend Developer.
+### English: 
+* B1 - Intermediate
+
